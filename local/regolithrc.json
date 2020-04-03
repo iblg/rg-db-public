@@ -1,6 +1,6 @@
-{"groupname": "Billinge Group",
+{"groupname": "Ian Billinge",
  "databases": [
-  {"name": "billingegroup-public",
+  {"name": "ianbillinge-public",
    "url": "..",
    "public": true,
    "path": "db",

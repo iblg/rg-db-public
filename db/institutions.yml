@@ -2470,6 +2470,14 @@ wolfgreenfield:
   name: Wolf Greenfield
   state: MA
   year: 2020
+yaleu:
+  aka:
+    - Yale
+  city: New Haven
+  country: USA
+  name: Yale University
+  state: CT
+  zip: 06520
 zhejiangu:
   aka:
     - zhejiangu

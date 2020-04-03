@@ -1,26 +1,13 @@
-bg:
+ib:
   aka:
-    - bg
-    - billinge-group
+    - ib
+    - ianbillinge
   banner: 20151103_173027.png
-  department: apam
-  email: <b>sb2896</b> <i>(AT)</i> <b>columbia.edu</b>
+  department: eaee
+  email: <b>ihb2106</b> <i>(AT)</i> <b>columbia.edu</b>
   institution: columbiau
   mission_statement: Making the world better, one PDF at a time
-  name: Billinge Group
-  pi_name: Simon J. L. Billinge
+  name: Ian Billinge
+  pi_name: Ian Billinge
   projects: ''
   website: www.thebillingegroup.com
-xray:
-  aka:
-    - xray group
-    - x-ray
-    - x-ray group
-  department: cmpms
-  email: <b>billinge</b> <i>(AT)</i> <b>bnl.gov</b>
-  institution: bnl
-  mission_statement: Making the world better, one PDF at a time
-  name: x-ray scattering group
-  pi_name: Simon J. L. Billinge
-  projects: ''
-  website: bnl.gov/cmpmsd/xray
